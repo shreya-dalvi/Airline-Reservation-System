@@ -25,13 +25,3 @@ The project is designed to display available flights within a given source and d
 ![image](https://user-images.githubusercontent.com/114758020/216791539-bf86601b-7c35-43ab-ab37-86f007eccb6a.png)
 ![image](https://user-images.githubusercontent.com/114758020/216791543-e8fe366c-49cd-4322-ab9e-17d49eca70ee.png)
 
-- Other Pages
-![image](https://user-images.githubusercontent.com/114758020/216791643-6dcec970-0166-421a-9996-c4f608d3bc2d.png)
-<br />
-![image](https://user-images.githubusercontent.com/114758020/216791649-d9ff751a-e9f7-4921-abfb-3514ba86a45d.png)
-<br />
-![image](https://user-images.githubusercontent.com/114758020/216791707-857ab0a6-fecd-486b-a25a-bc9015a16153.png)
-<br />
-![image](https://user-images.githubusercontent.com/114758020/216791715-678679da-8669-494a-b34a-4ccf5f10ce67.png)
-<br />
-![image](https://user-images.githubusercontent.com/114758020/216791719-93e73522-68f6-405d-8d7f-e6490230e0f9.png)
