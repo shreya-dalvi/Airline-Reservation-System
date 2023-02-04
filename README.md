@@ -25,3 +25,24 @@ The project is designed to display available flights within a given source and d
 ![image](https://user-images.githubusercontent.com/114758020/216791539-bf86601b-7c35-43ab-ab37-86f007eccb6a.png)
 ![image](https://user-images.githubusercontent.com/114758020/216791543-e8fe366c-49cd-4322-ab9e-17d49eca70ee.png)
 
+-Other Pages <br />
+
+
+![image](https://user-images.githubusercontent.com/114758020/216792880-f45650c6-c68b-4b48-92b0-f191e999620d.png)
+
+![image](https://user-images.githubusercontent.com/114758020/216792952-b399182d-f171-49ff-bc4d-1d5786c8904b.png)
+
+![image](https://user-images.githubusercontent.com/114758020/216792889-0166ae10-1f22-4084-b0a6-e2741d8240de.png)
+
+![image](https://user-images.githubusercontent.com/114758020/216792955-3260c4a9-ca45-41ce-993f-c64ffd72eb5a.png)
+
+![image](https://user-images.githubusercontent.com/114758020/216792903-1be9b8dc-d900-4830-9e21-51c934ee8a7b.png)
+
+![image](https://user-images.githubusercontent.com/114758020/216792911-357b0a4b-ecc2-4c34-849b-4e7ecb1d5283.png)
+
+**Clip:** <br />
+
+
+https://user-images.githubusercontent.com/114758020/216792987-ccf62567-bc0c-45e9-b2af-c762c062fa2c.mp4
+
+
